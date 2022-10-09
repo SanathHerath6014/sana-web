@@ -2,7 +2,9 @@ import React from 'react'
 
 function BottomBar() {
   return (
-    <div>BottomBar</div>
+    <div>
+      <p>bottom bar</p>
+    </div>
   )
 }
 
