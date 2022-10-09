@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sana-web/static/css/main.774e7a76.css",
+    "main.js": "/sana-web/static/js/main.cf75e2da.js",
+    "static/js/787.7dd1f9b1.chunk.js": "/sana-web/static/js/787.7dd1f9b1.chunk.js",
+    "static/media/logo.png": "/sana-web/static/media/logo.4a89463d33ab13972528.png",
+    "index.html": "/sana-web/index.html",
+    "main.774e7a76.css.map": "/sana-web/static/css/main.774e7a76.css.map",
+    "main.cf75e2da.js.map": "/sana-web/static/js/main.cf75e2da.js.map",
+    "787.7dd1f9b1.chunk.js.map": "/sana-web/static/js/787.7dd1f9b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.774e7a76.css",
+    "static/js/main.cf75e2da.js"
+  ]
+}
